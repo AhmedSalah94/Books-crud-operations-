@@ -1,0 +1,4 @@
+bootstrap: https://getbootstrap.com
+icofonts: https://icofont.com
+toastr notification: https://codeseven.github.io/toastr
+bootbox: http://bootboxjs.com
